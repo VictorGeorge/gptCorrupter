@@ -1,2 +1,2 @@
 # gptCorrupter
-Automation to change an AI behaviou
+Automation to change an AI behaviour
